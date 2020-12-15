@@ -1,7 +1,7 @@
 header {
   width: 100%;
   height: 320px;
-  background: url(../img/01.jpg);
+  background: url(01.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -127,7 +127,7 @@ aside {
   padding-top: 0px;
   padding-bottom :5px;
   margin-bottom: 100px;
-  background-image: url(../img/07.jpg);
+  background-image: url(07.jpg);
   background-size: cover;
 }
 
@@ -146,7 +146,7 @@ aside {
   overflow: hidden;
   margin-bottom: 100px;
   padding-bottom :5px;
-  background-image: url(../img/09.jpg);
+  background-image: url(09.jpg);
   background-size: cover;
 }
 
